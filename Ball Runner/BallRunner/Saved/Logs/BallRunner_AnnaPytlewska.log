@@ -835,3 +835,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.25-12.49.05:086][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
 [2020.06.25-12.49.05:221][  5]LogSavePackage: Moving 'D:/Dokumenty/pulpit/moje projekty/2020/programowanie/Ball Runner/BallRunner/Saved/MainLevelFF2D31F441A382CACE8B569D6FCD60D6.tmp' to 'D:/Dokumenty/pulpit/moje projekty/2020/programowanie/Ball Runner/BallRunner/Content/Levels/MainLevel.umap'
 [2020.06.25-12.49.05:241][  5]LogFileHelpers: Saving map 'MainLevel' took 0.220
+[2020.06.25-12.59.49:731][230]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2020.06.25-12.59.51:260][230]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.06.25-13.00.25:065][391]LogInit: XAudio2 using 'Słuchawki (Hesh 3 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.25-13.10.40:442][717]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.06.25-13.10.40:442][717]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.065
+[2020.06.25-13.10.40:444][717]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerPawn] ([1] browsable assets)...
+[2020.06.25-13.10.40:457][717]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2020.06.25-13.10.40:457][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawn]
+[2020.06.25-13.10.40:514][717]LogSavePackage: Moving 'D:/Dokumenty/pulpit/moje projekty/2020/programowanie/Ball Runner/BallRunner/Saved/BP_PlayerPawn_Auto26FB711E7456429B8D4FFC4A203D3C0BF.tmp' to 'D:/Dokumenty/pulpit/moje projekty/2020/programowanie/Ball Runner/BallRunner/Saved/Autosaves/Game/Blueprints/BP_PlayerPawn_Auto2.uasset'
+[2020.06.25-13.10.40:515][717]LogFileHelpers: Auto-saving content packages took 0.073
+[2020.06.25-13.20.55:136][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.06.25-13.20.55:136][726]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.042
+[2020.06.25-13.20.55:137][726]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerPawn] ([1] browsable assets)...
+[2020.06.25-13.20.55:137][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawn]
+[2020.06.25-13.20.55:148][726]LogSavePackage: Moving 'D:/Dokumenty/pulpit/moje projekty/2020/programowanie/Ball Runner/BallRunner/Saved/BP_PlayerPawn_Auto3C681D2DF4B7A6F9CE71DC1AFE6E88632.tmp' to 'D:/Dokumenty/pulpit/moje projekty/2020/programowanie/Ball Runner/BallRunner/Saved/Autosaves/Game/Blueprints/BP_PlayerPawn_Auto3.uasset'
+[2020.06.25-13.20.55:149][726]LogFileHelpers: Auto-saving content packages took 0.012
+[2020.06.25-13.35.20:182][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.06.25-13.35.20:866][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.25-13.35.25:618][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.06.25-13.35.26:455][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.25-13.35.31:001][269]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal)
+[2020.06.25-13.35.31:180][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.25-13.42.07:116][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.06.25-13.42.07:137][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerPawn" FILE="D:/Dokumenty/pulpit/moje projekty/2020/programowanie/Ball Runner/BallRunner/Content/Blueprints/BP_PlayerPawn.uasset" SILENT=true
+[2020.06.25-13.42.07:212][907]LogSavePackage: Moving 'D:/Dokumenty/pulpit/moje projekty/2020/programowanie/Ball Runner/BallRunner/Saved/BP_PlayerPawn70896C0A4D475F1B173373948590697D.tmp' to 'D:/Dokumenty/pulpit/moje projekty/2020/programowanie/Ball Runner/BallRunner/Content/Blueprints/BP_PlayerPawn.uasset'
